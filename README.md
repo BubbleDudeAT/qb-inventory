@@ -1,5 +1,17 @@
 # qb-inventory
 
+## PEPS DISCORD ##
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+https://discord.com/invite/55HFgeTA3D
+
+
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
